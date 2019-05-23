@@ -1,2 +1,16 @@
 
 .DS_Store
+
+archive/data.jsonl
+bionames/data.jsonl
+gallica/data.jsonl
+phylota_184/data.jsonl
+
+archive/data.jsonl
+bionames/data.jsonl
+bionames/data.jsonl.zip
+gallica/data.jsonl
+phylota_184/data.jsonl
+phylota_184/data.jsonl.zip
+
+

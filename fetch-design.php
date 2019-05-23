@@ -18,7 +18,7 @@ foreach ($views as $database => $views)
 {
 	// Folder for each database
 	$db_dir = dirname(__FILE__) . "/" . $database;
-	if (!file_exists($cache_dir))
+	if (!file_exists($db_dir))
 	{
 		$oldumask = umask(0); 
 		mkdir($db_dir, 0777);
